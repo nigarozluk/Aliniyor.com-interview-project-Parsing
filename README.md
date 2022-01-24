@@ -52,14 +52,14 @@ Soru çözümünde eksik kalsanız dahi mutlaka bize iletin, bizim için yorumun
 
 
 ***Interview Question***
-
+<br/>
 *The application must be **built with C#***
 <br/>
 
 *Even if the solution is incomplete, please send it to us, your comment is important to us. We will be evaluating.*
 <br/>
 <br/>
-*Design and project an API based on the following requirements:*
+**Design and project an API based on the following requirements:**
 <br/>
 • The API must be able to read all of the Datasets and operate on only one of them at a time. (datasets are shared in the appendix “xml, csv”)
 <br/>
